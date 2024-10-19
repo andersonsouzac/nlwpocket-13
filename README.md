@@ -33,7 +33,7 @@ Esta é uma pequena aplicação de um gerenciador de metas que roda via terminal
 
 ## Execução
 
-Para executar o gerenciador de metas, utilize o seguinte comando:
+Para executar, utilize o comando:
 ```
     node index.js
 ```
